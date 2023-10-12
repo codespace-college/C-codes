@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "Structure_in_c.C": "cpp",
+        "*.tcc": "cpp"
+    }
+}
